@@ -25,7 +25,7 @@
  
 Projeto de um componente para feedback desenvolvido em React com TypeScript, integração de e-mail e outras tecnologias do mesmo ecossistema, podendo ser  utilizado em aplicações para obter retorno dos seus usuários de forma prática e dinâmica.
 
-Esse front-end é a interface web do usuário que envia o  feedback para a API que resolve, salvando no banco de dados e enviando um e-mail para a equipe. 
+Esse front-end é a interface web do usuário responsável por enviar o feedback para a API que resolve, salva no banco de dados e enviando um e-mail para a equipe. 
  
 Toda aplicação foi desenvolvida na NLW Return, evento realizado pela Rocketseat composto por três módulos server, mobile e web. Nesse repositório está o que foi produzido no módulo web.
  
