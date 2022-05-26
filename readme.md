@@ -120,7 +120,7 @@ Em resumo, foi muito bom poder participar desse Next Level Week Return valeu <a 
  <img src="./screenshots/img-jonathas.png" alt="img-jonathas" width="250"></img>
  
 
-   Me chamo Jonathas Costa e sou Analista de sistemas e fascinado por tecnologia e desenvolvimento de soluções web, sempre buscando novos desafios e conhecimentos.
+   Me chamo Jonathas Costa sou Analista de sistemas e fascinado por tecnologia e desenvolvimento de soluções web, sempre buscando novos desafios e conhecimentos.
 
 </br></br>
  
