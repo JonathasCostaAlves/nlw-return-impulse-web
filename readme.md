@@ -2,10 +2,7 @@
 ![Demo](./screenshots/feedbacks.png)
  
  
-<img src="https://img.shields.io/github/license/JonathasCostaAlves/nlw-return-impulse-web" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/github/license/JonathasCostaAlves/nlw-return-impulse-web" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  
 </br>
 
@@ -43,6 +40,7 @@ Mobile : https://github.com/JonathasCostaAlves/nlw-return-impulse-mobile
  
  
 ## Demonstração
+
 </br>
  
  
@@ -135,6 +133,10 @@ Em resumo, foi muito bom poder participar desse Next Level Week Return valeu <a 
 
 <a href="https://mailito:jcalves182@gmail.com/" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+</a>
+<a href="https://github.com/JonathasCostaAlves" >
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
