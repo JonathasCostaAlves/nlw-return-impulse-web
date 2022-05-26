@@ -53,10 +53,13 @@ Mobile : https://github.com/JonathasCostaAlves/nlw-return-impulse-mobile
  
 ## Resultado do projeto
 </br>
-O projeto está online e hospedado no link : <https://nlw-return-impulse-web-five-lyart.vercel.app/></br></br>
+
+O projeto está online e hospedado no link : <https://nlw-return-impulse-web-five-lyart.vercel.app/>
+
+</br></br>
  
  
-:construction::rocket: Projeto em construção ainda com alguns pontos de melhoria:rocket: :construction:
+:construction::rocket: Ainda em construção :rocket: :construction:
  
  
 ## Rodando a aplicação
