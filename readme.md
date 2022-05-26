@@ -111,7 +111,7 @@ Geralmente os eventos da Rocketseat são muito intensos e repletos de novos conh
  
 Alguns pontos como a utilização TailwindCss que proporciona muita produtividade na estilização e se encaixa muito bem com a componentização do React, além  HeadLessui que já automatiza a acessibilidade tornando uma aplicação simples um prato cheio de novos aprendizados e perspectivas.
  
-Em resumo, foi muito bom poder participar desse Next Level Week Return valeu <a href="https://www.rocketseat.com.br/" target="_blank"> RocketSeat </a>!
+Em resumo, foi uma experiência muito enriquecedora poder participar dessa Next Level Week Return valeu <a href="https://www.rocketseat.com.br/" target="_blank"> RocketSeat </a>!
  
 ## Autor 
     
