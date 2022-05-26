@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  
-##Índice
+## Índice
  
 * [Sobre](##Sobre)
 * [Demonstração](##Demonstração)
@@ -120,16 +120,16 @@ Em resumo, foi muito bom poder participar desse Next Level Week Return valeu <a 
 
 </br></br>
  
-<a href="https://www.instagram.com/jonathascostadev/" target="_blank">
+<a href="https://www.instagram.com/jonathascostadev/" >
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
     ">
 </a>
-<a href="https://www.linkedin.com/in/jonathas-costa-86210a21a/" target="_blank">
+<a href="https://www.linkedin.com/in/jonathas-costa-86210a21a/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
     ">
 </a>
-<a href="https://mailito:jcalves182@gmail.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-    ">
+<a href="https://mailito:jcalves182@gmail.com/" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white    ">
+
 </a>
 
