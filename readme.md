@@ -3,24 +3,25 @@
  
  
 <img src="https://img.shields.io/github/license/JonathasCostaAlves/nlw-return-impulse-web" />
--
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  
+</br>
 ## Índice
  
-* [Sobre](##Sobre)
-* [Demonstração](##Demonstração)
-* [Resultados do Projeto](##Resultado-do-projeto)
-* [Rodando a aplicação](##Rodando-a-aplicação)
-* [Funcionalidades](##Funcionalidades)
-* [Tecnologias](##Tecnologias)
-* [Sobre o Evento](##Sobre-o-Evento)
-* [Autor](##Autor)
+* [Sobre](#Sobre)
+* [Demonstração](#Demonstração)
+* [Resultados do Projeto](#Resultado-do-projeto)
+* [Rodando a aplicação](#Rodando-a-aplicação)
+* [Funcionalidades](#Funcionalidades)
+* [Tecnologias](#Tecnologias)
+* [Sobre o Evento](#Sobre-o-Evento)
+* [Autor](#Autor)
  
-## Sobre  
 </br>
+## Sobre  
+
  
  
 Projeto de um componente para feedback desenvolvido em React com TypeScript, integração de e-mail e outras tecnologias do mesmo ecossistema, podendo ser em utilizado aplicações para obter retorno dos seus usuários de forma prática e dinâmica.
