@@ -23,9 +23,9 @@
 
  
  
-Projeto de um componente para feedback desenvolvido em React com TypeScript, integração de e-mail e outras tecnologias do mesmo ecossistema, podendo ser em utilizado aplicações para obter retorno dos seus usuários de forma prática e dinâmica.
+Projeto de um componente para feedback desenvolvido em React com TypeScript, integração de e-mail e outras tecnologias do mesmo ecossistema, podendo ser  utilizado em aplicações para obter retorno dos seus usuários de forma prática e dinâmica.
 
-Esse front-end é a interface  web do usuário que envia o  feedback para a API que resolve , salvando no banco de dados  e enviando um e-mail para a equipe. 
+Esse front-end é a interface  web do usuário que envia o  feedback para a API que resolve, salvando no banco de dados e enviando um e-mail para a equipe. 
  
 Toda aplicação foi desenvolvida na NLW Return, evento realizado pela Rocketseat composto por três módulos server, mobile e web. Nesse repositório está o que foi produzido no módulo web.
  
@@ -107,11 +107,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
 ## Sobre o Evento
  
-Geralmente os eventos da Rocketseat são muito intensos e repletos de novos conhecimento, esse não foi diferente, desenvolver uma aplicação simples porém com boas práticas seguindo os princípios do SOLID  e utilizando TypeScript foi muito bom.
+Geralmente os eventos da Rocketseat são muito intensos e repletos de novos conhecimentos, esse não foi diferente, desenvolver uma aplicação simples porém com boas práticas seguindo os princípios do SOLID  e utilizando TypeScript foi uma experiência sensacional.
  
 Alguns pontos como a utilização TailwindCss que proporciona muita produtividade na estilização e se encaixa muito bem com a componentização do React, além  HeadLessui que já automatiza a acessibilidade tornando uma aplicação simples um prato cheio de novos aprendizados e perspectivas.
  
-Em resumo, foi muito bom poder participar desse Next Level Week Return valeu <a href=""> RocketSeat </a>!
+Em resumo, foi muito bom poder participar desse Next Level Week Return valeu <a href="https://www.rocketseat.com.br/" target="_blank"> RocketSeat </a>!
  
 ## Autor 
     
