@@ -73,6 +73,11 @@ $ git clone <https://github.com/JonathasCostaAlves/nlw-return-impulse-web.git>
 ```bash
 $ cd nlw-return-impulse-web
 ```
+#### Execute a instalação das dependencias
+```bash
+$ npm install
+```
+
 #### Execute a aplicação em modo de desenvolvimento
 ```bash
 $ npm run dev
